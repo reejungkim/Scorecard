@@ -15,3 +15,4 @@
 ## referecnes
 - [OptBinning: The Python Optimal Binning library](http://gnpalencia.org/optbinning/)
 - [code example](https://github.com/guillermo-navas-palencia/optbinning)
+- [스코어카드 풀이](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jhkang8420&logNo=221541323875)
