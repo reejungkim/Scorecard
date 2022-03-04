@@ -10,7 +10,7 @@
 ```
 - pip install optbinning
 ```
-
+[View code: Scorecard](https://github.com/reejungkim/Scorecard/blob/main/Scorecard%20binning.ipynb)
 
 ## referecnes
 - [OptBinning: The Python Optimal Binning library](http://gnpalencia.org/optbinning/)
